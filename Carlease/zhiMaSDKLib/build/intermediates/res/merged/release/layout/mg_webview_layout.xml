@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/mg_webview_layout_title"
+        layout="@layout/mg_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"></include>
+
+    <com.megvii.zhimasdk.view.ADWebView
+        android:id="@+id/mg_webview_layout_webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/mg_webview_layout_title" />
+
+    <RelativeLayout
+        android:id="@+id/mg_webview_layout_barRel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        >
+
+        <ProgressBar
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:layout_centerInParent="true" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

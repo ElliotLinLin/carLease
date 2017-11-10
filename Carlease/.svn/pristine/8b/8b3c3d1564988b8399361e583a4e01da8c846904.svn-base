@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 自定义对话框style，下同 -->
+    <style name="tools_My_Theme_Dialog_Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowTitleStyle">@style/tools_DialogWindowTitle</item>
+    </style>
+
+    <style name="tools_DialogWindowTitle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.DialogWindowTitle</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="tools_AppTheme" parent="android:Theme.Light">
+        <!-- Set to hide the title bar -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#666666</item>
+    </style>
+
+    <!-- 自定义对话框弹出和取消时的动画 -->
+    <style mce_bogus="1" name="dialogWindowAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/tools_zoom_enter</item>
+        <item name="android:windowExitAnimation">@anim/tools_zoom_exit</item>
+    </style>
+
+</resources>

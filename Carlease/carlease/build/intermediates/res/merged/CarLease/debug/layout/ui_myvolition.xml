@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F0F0"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/titleBar_myorder"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linea_sum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleBar_myorder"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:layout_marginBottom="@dimen/y20" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="@dimen/y10"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="违章"
+                android:textColor="#666666"
+                android:textSize="@dimen/x32" />
+
+            <TextView
+                android:id="@+id/volition_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y10"
+                android:layout_marginTop="@dimen/y5"
+                android:text="0"
+                android:textColor="@color/red"
+                android:textSize="@dimen/x28" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/y10"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="罚款"
+                android:textColor="#666666"
+                android:textSize="@dimen/x32" />
+
+            <TextView
+                android:id="@+id/volition_mon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y10"
+                android:layout_marginTop="@dimen/y5"
+                android:text="0"
+                android:textColor="@color/red"
+                android:textSize="@dimen/x28" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/y10"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="扣分"
+                android:textColor="#666666"
+                android:textSize="@dimen/x32" />
+
+            <TextView
+                android:id="@+id/volition_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y10"
+                android:layout_marginTop="@dimen/y5"
+                android:text="0"
+                android:textColor="@color/red"
+                android:textSize="@dimen/x28" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_myorder"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/linea_sum"
+        android:cacheColorHint="#ffffff"
+        android:divider="#E4E9EA"
+        android:dividerHeight="1dp"
+        android:fadingEdge="none"
+        android:groupIndicator="@null"
+        android:listSelector="#ffffff"
+        android:scrollbars="none"
+        android:layout_marginBottom="@dimen/y100"
+        />
+
+    <TextView
+        android:id="@+id/tv_myorder_nodata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linea_sum"
+        android:gravity="center"
+        android:text="还没有订单"
+        android:textColor="#666666"
+        android:textSize="@dimen/x28"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rl_shoppingcar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:padding="@dimen/x20" 
+        android:layout_alignParentBottom="true"
+        android:layout_alignBottom="@+id/lv_myorder"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/btn_next"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x40"
+            android:layout_marginRight="@dimen/x40"
+            android:background="@drawable/btn_login_selecter"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="刷新"
+            android:textColor="@color/white"
+            android:textSize="@dimen/x24" />
+    </RelativeLayout>
+
+</RelativeLayout>

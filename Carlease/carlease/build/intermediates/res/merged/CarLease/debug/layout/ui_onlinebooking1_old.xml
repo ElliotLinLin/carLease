@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"/>
+
+    <ScrollView
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/titlebar"
+        android:cacheColorHint="#ffffff"
+        android:fadingEdge="none"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/y100"
+                android:background="#ffffff">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/x20"
+                    android:layout_marginRight="@dimen/x20"
+                    android:background="#929292"/>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <View style="@style/view_style"/>
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_blue"
+                        android:text="@string/num1"
+                        android:textColor="@color/white"/>
+
+                    <View style="@style/view_style"/>
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_grey"
+                        android:text="@string/num2"
+                        android:textColor="#929292"/>
+
+                    <View style="@style/view_style"/>
+                </LinearLayout>
+            </FrameLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="@dimen/x20"
+                android:text="@string/reminds"
+                android:textSize="@dimen/x30"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/name"/>
+
+                <EditText
+                    android:id="@+id/name"
+                    style="@style/EditTex1_style"
+                    android:hint="@string/edit_name"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/cardno"/>
+
+                <EditText
+                    android:id="@+id/cardno"
+                    style="@style/EditTex1_style"
+                    android:digits="@string/inputtype3"
+                    android:hint="@string/edit_carno"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/mine_phone"/>
+
+                <EditText
+                    android:id="@+id/mine_phone"
+                    style="@style/EditTex1_style"
+                    android:hint="@string/editmine_phone"
+                    android:inputType="phone"/>
+            </LinearLayout>
+
+            <View
+
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:visibility="gone">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/mine_address"/>
+
+                <TextView
+                    android:id="@+id/mine_address"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:hint="@string/edit_address"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/textView"
+                    style="@style/Textview1_style"
+                    android:text="@string/getcar"/>
+
+                <TextView
+                    android:id="@+id/getcar"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:hint="@string/editgetcar"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:visibility="gone">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/jingbanren"/>
+
+                <EditText
+                    android:id="@+id/jingbanren"
+                    style="@style/EditTex1_style"
+                    android:hint="@string/editmine_jingbanren"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/mine_yewu"/>
+
+                <TextView
+                    android:id="@+id/mine_yewu"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:hint="@string/yewu_hint"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="单位地址"/>
+
+                <EditText
+                    android:id="@+id/work_loc"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入单位地址"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="现居住地址"/>
+
+                <TextView
+                    android:id="@+id/now_loc"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:hint="请选择现居住地址"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="现居住详细地址"/>
+
+                <EditText
+                    android:id="@+id/now_detail_loc"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入详细居住地址"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:id="@+id/linearhun"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/con"/>
+
+                <TextView
+                    android:id="@+id/tv_spinner"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:text="未婚"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="紧急联系人"/>
+
+                <EditText
+                    android:id="@+id/et_emergency_contact"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入紧急联系人姓名"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="紧急联系人电话"/>
+
+                <EditText
+                    android:id="@+id/et_emergency_contact_phone"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入紧急联系人电话"
+                    android:inputType="phone"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/contact"/>
+
+                <EditText
+                    android:id="@+id/et_emergency_contact_relation"
+                    style="@style/EditTex1_style"
+                    android:cursorVisible="false"
+                    android:drawableRight="@drawable/select"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:hint="@string/contact_hint"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/linearxin"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/isor"/>
+
+                <TextView
+                    android:id="@+id/message"
+                    style="@style/EditTex1_style"
+                    android:layout_marginLeft="@dimen/x10"
+                    android:layout_marginRight="@dimen/x20"
+                    android:drawableRight="@drawable/select"
+                    android:text="是"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/familay"/>
+
+                <EditText
+                    android:id="@+id/family"
+                    style="@style/EditTex1_style"
+                    android:hint="@string/edit_familay"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/fa_phone"/>
+
+                <EditText
+                    android:id="@+id/fa_phone"
+                    style="@style/EditTex1_style"
+                    android:hint="@string/phone_hint"
+                    android:inputType="phone"/>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="@string/contact"/>
+
+                <EditText
+                    android:id="@+id/contanct"
+                    style="@style/EditTex1_style"
+                    android:cursorVisible="false"
+                    android:drawableRight="@drawable/select"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:hint="@string/contact_hint"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    style="@style/Textview1_style"
+                    android:text="银行名称"/>
+
+                <TextView
+                    android:id="@+id/tv_bank_name"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:hint="请选择银行名称"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="开户名称"/>
+
+                <EditText
+                    android:id="@+id/et_user_bank_name"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入开户名称"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="银行卡号"/>
+
+                <EditText
+                    android:inputType="number"
+                    android:id="@+id/et_user_bank_number"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入银行卡号"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="支行名称"/>
+
+                <EditText
+                    android:id="@+id/et_sub_bank_name"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入支行名称"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/x30"
+                android:background="#EEEEEE"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff">
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="驾驶证初始领证日期"/>
+
+                <TextView
+                    android:id="@+id/tv_driver_license_date"
+                    style="@style/EditTex1_style"
+                    android:drawableRight="@drawable/select"
+                    android:hint="请选择领证日期"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/btn_next"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y50"
+                android:layout_marginLeft="@dimen/x40"
+                android:layout_marginRight="@dimen/x40"
+                android:layout_marginTop="@dimen/y40"
+                android:background="@drawable/btn_login_selecter"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="@string/next"
+                android:textColor="@color/white"
+                android:textSize="@dimen/x24"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

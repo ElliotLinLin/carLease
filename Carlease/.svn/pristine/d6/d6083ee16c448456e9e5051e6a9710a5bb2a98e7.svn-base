@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"  xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<string-array
+    name="list1">
+    <item>未婚</item>
+    <item>已婚</item>
+    <item>离异</item>
+    <item>丧偶</item>
+</string-array>
+</resources>

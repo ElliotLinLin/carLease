@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    >
+
+    <LinearLayout
+        android:id="@+id/titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/titlebar"
+        android:descendantFocusability="blocksDescendants">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="@dimen/y250"
+            android:orientation="vertical" 
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/content"
+                style="@style/details_style"
+                android:layout_marginBottom="@dimen/y15"
+                android:layout_marginTop="@dimen/y15"
+                android:textSize="@dimen/x32" 
+                android:textColor="#333333"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/time"
+                style="@style/details_style"
+                 android:textColor="#666666"
+                 />
+
+          
+            <TextView
+                android:id="@+id/updatename"
+                style="@style/details_style"
+                />
+
+            <TextView
+                android:id="@+id/time2"
+                style="@style/details_style"
+                 />
+
+            <WebView
+                android:id="@+id/webdetails"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y200"
+                android:layerType="hardware"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <RelativeLayout
+            android:id="@+id/rl_productdetails_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#F5F5F6"
+            android:orientation="horizontal"
+            android:padding="@dimen/x20" >
+
+            <Button
+                android:id="@+id/bn_order"
+                android:layout_width="@dimen/x178"
+                android:layout_height="@dimen/y62"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/x10"
+                android:background="@drawable/btn_login_selecter"
+                android:padding="@dimen/x10"
+                android:text="立即预订"
+                android:textColor="@color/white"
+                android:textSize="@dimen/x24" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

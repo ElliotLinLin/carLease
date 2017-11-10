@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     >
+
+    <LinearLayout
+        android:id="@+id/menu_query"
+        style="@style/menu_item_ll" >
+
+        <TextView
+            android:id="@+id/menu_query_icon"
+            style="@style/menu_icon_tv" 
+           />
+
+        <TextView
+            android:id="@+id/menu_query_title"
+            style="@style/menu_tv_title"
+            android:text="首页" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/menu_add"
+        style="@style/menu_item_ll" >
+
+        <TextView
+            android:id="@+id/menu_add_icon"
+            style="@style/menu_icon_tv"
+           />
+
+        <TextView
+            android:id="@+id/menu_add_title"
+            style="@style/menu_tv_title"
+            android:text="热门车型" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/menu_count"
+        style="@style/menu_item_ll" 
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/menu_count_icon"
+            style="@style/menu_icon_tv"
+           />
+
+        <TextView
+            android:id="@+id/menu_count_title"
+            style="@style/menu_tv_title"
+            android:text="在线预订" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/menu_more"
+        style="@style/menu_item_ll" >
+
+        <TextView
+            android:id="@+id/menu_more_icon"
+            style="@style/menu_icon_tv" 
+            />
+
+        <TextView
+            android:id="@+id/menu_more_title"
+            style="@style/menu_tv_title"
+            android:text="我的" />
+    </LinearLayout>
+
+
+</merge>

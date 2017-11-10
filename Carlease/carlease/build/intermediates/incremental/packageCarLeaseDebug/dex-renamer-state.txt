@@ -1,0 +1,4 @@
+#Fri Nov 10 16:15:58 CST 2017
+base.0=E\:\\work\\Carlease\\carlease\\build\\intermediates\\transforms\\dex\\CarLease\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\work\\Carlease\\carlease\\build\\intermediates\\transforms\\dex\\CarLease\\debug\\folders\\1000\\1f\\main\\classes.dex

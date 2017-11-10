@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_liveness_eye_open_closed.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_liveness_eye_open_closed.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_bg_return_select.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_bg_return_select.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_liveness_head_pitch.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_liveness_head_pitch.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_liveness_head_yaw.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_liveness_head_yaw.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_liveness_mouth_open_closed.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_liveness_mouth_open_closed.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_bg_return_p.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_bg_return_p.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\drawable\\mg_bg_return_n.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\drawable\\mg_bg_return_n.xml"
+    }
+]

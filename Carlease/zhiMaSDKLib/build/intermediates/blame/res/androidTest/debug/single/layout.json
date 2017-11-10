@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mg_title_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\debug\\res\\layout\\mg_title_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mg_liveness_detection_step.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\debug\\res\\layout\\mg_liveness_detection_step.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mg_network_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\debug\\res\\layout\\mg_network_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mg_livenessdetect_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\debug\\res\\layout\\mg_livenessdetect_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mg_webview_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\debug\\res\\layout\\mg_webview_layout.xml"
+    }
+]

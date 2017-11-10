@@ -1,0 +1,329 @@
+[
+    {
+        "outputFile": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 46,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 50,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 44,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 44,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 57,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 57,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 55,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 55,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 45,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 45,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1342,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1769
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1774,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 1983
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1774,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1988,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2197
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1988,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2202,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2202,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2621
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2418,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2621
+                    }
+                }
+            }
+        ]
+    }
+]

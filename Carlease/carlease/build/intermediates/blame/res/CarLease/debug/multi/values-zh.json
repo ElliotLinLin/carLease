@@ -1,0 +1,532 @@
+[
+    {
+        "outputFile": "E:\\work\\Carlease\\carlease\\build\\intermediates\\incremental\\mergeCarLeaseDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 14,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 14,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endLine": 7,
+                    "endColumn": 14,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endLine": 10,
+                    "endColumn": 14,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endLine": 10,
+                        "endColumn": 14,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endLine": 16,
+                    "endColumn": 14,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endLine": 16,
+                        "endColumn": 14,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endLine": 19,
+                    "endColumn": 14,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 766,
+                    "endColumn": 49,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 49,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 59,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 59,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 49,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 49,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 58,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 58,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 58,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 58,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 42,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 42,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endColumn": 63,
+                    "endOffset": 1146
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 63,
+                        "endOffset": 1146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1151,
+                    "endColumn": 61,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1151,
+                        "endColumn": 61,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 61,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 61,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 48,
+                    "endOffset": 1319
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endColumn": 48,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1324,
+                    "endColumn": 55,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 55,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 55,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 55,
+                        "endOffset": 1431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 48,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 48,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 58,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 58,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 58,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1544,
+                        "endColumn": 58,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 58,
+                    "endOffset": 1657
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 58,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1662,
+                    "endColumn": 97,
+                    "endOffset": 1755
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 97,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endColumn": 100,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endColumn": 100,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 89,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 89,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 44,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 44,
+                        "endOffset": 1991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1996,
+                    "endColumn": 62,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1996,
+                        "endColumn": 62,
+                        "endOffset": 2054
+                    }
+                }
+            }
+        ]
+    }
+]

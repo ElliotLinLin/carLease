@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/y20"
+        android:background="#F3F4F9" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/y70"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" 
+        android:background="@drawable/pay_groupbg"
+        >
+
+        <ImageView
+            android:layout_width="@dimen/x32"
+            android:layout_height="@dimen/x32"
+            android:layout_marginLeft="@dimen/x20"
+            android:src="@drawable/paynobg"
+            android:gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/orderno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="dfafjafakdf"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/carname"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/x20"
+            android:gravity="right|center_vertical"
+            android:text="dfafjafakdf"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/y60"
+        android:layout_marginLeft="@dimen/x20"
+        android:background="#FFFFFF"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/tv_paym"
+            android:text="日期" />
+
+        <TextView
+            style="@style/tv_paym"
+            android:text="类型" />
+
+        <TextView
+            style="@style/tv_paym"
+            android:text="金额" />
+
+        <TextView
+            style="@style/tv_paym"
+            android:text="状态" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:background="@drawable/bg_dash_line"
+        android:layerType="software"
+        android:layout_marginLeft="@dimen/x20" 
+        android:layout_marginRight="@dimen/x20"/>
+
+</LinearLayout>

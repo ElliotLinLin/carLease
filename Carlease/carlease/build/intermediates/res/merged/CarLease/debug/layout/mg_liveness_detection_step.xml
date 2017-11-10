@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_pos_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/detection_step_linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <com.megvii.zhimasdk.view.AutoRatioImageview
+            android:id="@+id/detection_step_image"
+            android:layout_width="@dimen/detection_step_image_width"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/liveness_head" />
+
+        <TextView
+            android:id="@+id/detection_step_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dip"
+            android:layout_marginBottom="20dip"
+            android:text="眨眼"
+            android:textColor="#04C9B3"
+            android:textSize="16sp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/liveness_layout_timeoutRel"
+        android:layout_width="@dimen/liveness_layout_timeoutRel_width"
+        android:layout_height="@dimen/liveness_layout_timeoutRel_width"
+        android:layout_marginTop="25dip"
+        android:layout_marginLeft="2dip"
+        android:visibility="visible"
+        android:layout_toRightOf="@+id/detection_step_linear"
+        >
+
+        <TextView
+            android:id="@+id/liveness_layout_timeout_garden"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="10"
+            android:textColor="#00BEE2"
+            android:textSize="@dimen/liveness_layout_timeout_garden_size"
+            />
+
+        <com.megvii.zhimasdk.view.CircleProgressBar
+            android:id="@+id/liveness_layout_timeout_progressBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+</RelativeLayout>

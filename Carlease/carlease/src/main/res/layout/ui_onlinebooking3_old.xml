@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F3F3"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/titlebar"
+        android:layout_marginBottom="@dimen/y50"
+        android:cacheColorHint="#ffffff"
+        android:fadingEdge="none" 
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#929292" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <View style="@style/view_style" />
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_grey"
+                        android:text="@string/num1"
+                        android:textColor="#929292" />
+
+                    <View style="@style/view_style" />
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_blue"
+                        android:text="@string/num2"
+                        android:textColor="@color/white" />
+
+                    <View style="@style/view_style" />
+                </LinearLayout>
+            </FrameLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/x10"
+                android:text="@string/perfectdata_prompt2"
+                android:textSize="@dimen/x28" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/image1"
+                        style="@style/img_sc"
+                      />
+
+                    <TextView
+                        android:id="@+id/tv1"
+                        style="@style/tv_sc"
+                        android:text="身份证正面" />
+                </FrameLayout>
+
+                <Button
+                    android:id="@+id/btn1"
+                    style="@style/btn_sc" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y20" 
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x30"
+                    android:textSize="@dimen/x26" />
+
+                <EditText
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_input_white"
+                    android:textSize="@dimen/x24"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x30"
+                    android:textSize="@dimen/x26" />
+
+                <EditText
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_input_white"
+                    android:textSize="@dimen/x24"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="@string/perfectdata_prompt3"
+                android:textSize="@dimen/x28" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/image2"
+                        style="@style/img_sc" />
+
+                    <TextView
+                        android:id="@+id/tv2"
+                        style="@style/tv_sc"
+                        android:text="身份证反面" />
+                </FrameLayout>
+
+                <Button
+                    android:id="@+id/btn2"
+                    style="@style/btn_sc" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="驾驶证"
+                android:textSize="@dimen/x28" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/image3"
+                        style="@style/img_sc" />
+
+                    <TextView
+                        android:id="@+id/tv3"
+                        style="@style/tv_sc"
+                        android:text="驾驶证" />
+                </FrameLayout>
+
+                <Button
+                    android:id="@+id/btn3"
+                    style="@style/btn_sc" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="六个月银行流水"
+                android:textSize="@dimen/x28" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/image4"
+                        style="@style/img_sc" />
+
+                    <TextView
+                        android:id="@+id/tv4"
+                        style="@style/tv_sc"
+                        android:text="六个月银行流水" />
+                </FrameLayout>
+
+                <Button
+                    android:id="@+id/btn4"
+                    style="@style/btn_sc" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="三个月通话清单"
+                android:textSize="@dimen/x28" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/image5"
+                        style="@style/img_sc" />
+
+                    <TextView
+                        android:id="@+id/tv5"
+                        style="@style/tv_sc"
+                        android:text="三个月通话清单" />
+                </FrameLayout>
+
+                <Button
+                    android:id="@+id/btn5"
+                    style="@style/btn_sc" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/x20"
+                android:orientation="horizontal" >
+
+                <CheckBox
+                    android:id="@+id/checked"
+                    android:layout_width="@dimen/x34"
+                    android:layout_height="@dimen/y36"
+                    android:layout_margin="@dimen/x10"
+                    android:button="@drawable/checkbox_service_agreement_selector" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:text="同意授权个人征信查询"
+                    android:textColor="#808386"
+                    android:textSize="@dimen/x26" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_register"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="@dimen/x40"
+                android:layout_marginRight="@dimen/x40"
+                android:layout_marginTop="@dimen/y40"
+                android:background="@drawable/shape_btn_login_grey"
+                android:gravity="center"
+                android:padding="@dimen/x20"
+                android:text="@string/submit"
+                android:textColor="@color/white"
+                android:textSize="@dimen/x26" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

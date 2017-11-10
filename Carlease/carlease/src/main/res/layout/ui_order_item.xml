@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:background="#ffffff"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/relative"
+        android:layout_margin="@dimen/x10">
+
+        <TextView
+            android:id="@+id/tv_orderno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x20"
+            android:text="订单号"
+            android:textSize="@dimen/x26"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/order_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/x20"
+            android:textColor="#FFB312"
+            android:textSize="@dimen/x26"/>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/y2"
+        android:background="#E0DEF4"/>
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/x180"
+        android:layout_margin="@dimen/x20"
+        android:background="#ffffff"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iamge"
+            android:layout_width="@dimen/x240"
+            android:layout_height="@dimen/x180"
+            android:layout_marginRight="@dimen/x10"
+            android:scaleType="fitCenter"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/iamge"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="ssss"
+                android:textSize="@dimen/x24"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1.4"
+                android:gravity="center_vertical"
+                android:maxLines="2"
+                android:text="ssss哈是短发飞哈接口四方达放假大法好多发发动机发哪家"
+                android:textColor="@color/wzy_black_6"
+                android:textSize="@dimen/x22"/>
+
+            <TextView
+                android:id="@+id/zhidao"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="ssss"
+                android:textColor="@color/wzy_black_6"
+                android:textSize="@dimen/x22"/>
+
+            <TextView
+                android:id="@+id/tv_firstpay"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="ssss"
+                android:textColor="@color/wzy_black_6"
+                android:textSize="@dimen/x22"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/y2"
+        android:background="#E0DEF4"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/x10"
+        >
+
+        <TextView
+            android:id="@+id/tv_order_face"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_order_orange"
+            android:padding="@dimen/x20"
+            android:text="人脸识别认证"
+            android:textColor="@color/white"
+            android:textSize="@dimen/x24"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"/>
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:id="@+id/cacle_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/x10"
+            android:layout_toLeftOf="@+id/order_order"
+            android:background="@drawable/shape_order_orange"
+            android:padding="@dimen/x20"
+            android:text="取消订单"
+            android:textColor="@color/white"
+            android:textSize="@dimen/x24"/>
+
+        <TextView
+            android:id="@+id/order_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/x10"
+            android:background="@drawable/shape_order_orange"
+            android:padding="@dimen/x20"
+            android:text=" 去付款  "
+            android:textColor="@color/white"
+            android:textSize="@dimen/x24"/>
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/y20"
+        android:background="#F3F4F8"/>
+</LinearLayout>

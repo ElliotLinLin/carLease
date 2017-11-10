@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#8b92a0"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:background="@drawable/shape_btn_login"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_from_lib"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/x20"
+            android:text="拍      照"
+            android:background="#EEEEF5"
+            android:textColor="#000000"
+            android:textSize="@dimen/x24" />
+
+        <include layout="@layout/layout_driver" />
+
+        <TextView
+            android:background="#FFFFFF"
+            android:id="@+id/tv_from_camera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/x20"
+            android:text="从手机相册选择"
+            android:textColor="#000000"
+            android:textSize="@dimen/x24" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_from_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/y10"
+        android:background="@drawable/shape_btn_login"
+        android:gravity="center"
+        android:padding="@dimen/x20"
+        android:text="取      消"
+        android:textColor="#000000"
+        android:textSize="@dimen/x26" />
+
+</LinearLayout>

@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_huz_bg_white.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_huz_bg_white.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\line.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_bg_return_p.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_bg_return_p.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_bt_calendar_last.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_bt_calendar_last.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\btn_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\car_manager_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\car_manager_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_wheel_val.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_wheel_val.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_liveness_mouth_open_closed.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_liveness_mouth_open_closed.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\bga_banner_selector_point_solid.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_titlebar_style_loading.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_titlebar_style_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_huz_btn_bg.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_huz_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\car_picture_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\car_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_liveness_head_yaw.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_liveness_head_yaw.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\checkbox_login_selecter.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\checkbox_login_selecter.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_input_white.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_input_white.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_bt_calendar_next.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_bt_calendar_next.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\selector_top_corners.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\selector_top_corners.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_btn_login_grey.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_btn_login_grey.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_bt_bgd.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_bt_bgd.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\bga_banner_selector_point_hollow.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\bga_banner_selector_point_hollow.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\order_orange_seletor.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\order_orange_seletor.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\car_weihu_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\car_weihu_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\qianzai_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\qianzai_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\yewu_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\yewu_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_bg_return_n.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_bg_return_n.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_rangkle_black.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_rangkle_black.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\title_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\title_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\btn_login_selecter.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\btn_login_selecter.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_btn_upgrade_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_btn_upgrade_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_oval_lightgrey.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_oval_lightgrey.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_liveness_head_pitch.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_liveness_head_pitch.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\bg_dash_line.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\bg_dash_line.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_dialog_btn_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_dialog_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_btn_login.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_btn_login.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_wheel_bg.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_liveness_eye_open_closed.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_liveness_eye_open_closed.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_btn_to_main_seletor.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_btn_to_main_seletor.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_selector_dialog_bg.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_selector_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\delete_drawable.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\delete_drawable.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\design_password_eye.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_btn_back_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_btn_back_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\checkbox_payt_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\checkbox_payt_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\qiankuan_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\qiankuan_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\mg_bg_return_select.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\mg_bg_return_select.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_order_red.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_order_red.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_huz_btn_check.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_huz_btn_check.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\guide_experience.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\guide_experience.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_rankle_white.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_rankle_white.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_wait_rotate_dialog.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_wait_rotate_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_bt_nobgd.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_bt_nobgd.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shouche_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shouche_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_oval_blue.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_oval_blue.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\checkbox_service_agreement_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\checkbox_service_agreement_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\dollor_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\dollor_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\bg_border_stroke.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\bg_border_stroke.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_order_orange.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_order_orange.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_huz_bg_blue.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_huz_bg_blue.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\tools_btn_dialog_drawable.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\tools_btn_dialog_drawable.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\hetong_manager_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\hetong_manager_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\text_blue_black_selector.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\text_blue_black_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\shape_oval_grey.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\drawable\\shape_oval_grey.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\drawable\\progressbar.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\drawable\\progressbar.xml"
+    }
+]

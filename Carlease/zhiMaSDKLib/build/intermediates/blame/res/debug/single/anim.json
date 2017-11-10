@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\anim\\mg_liveness_leftout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\anim\\mg_liveness_leftout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\anim\\mg_slide_in_right.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\anim\\mg_slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\anim\\mg_liveness_rightin.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\anim\\mg_liveness_rightin.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\anim\\mg_slide_in_left.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\anim\\mg_slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\anim\\mg_slide_out_right.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\anim\\mg_slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\res\\merged\\debug\\anim\\mg_slide_out_left.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\src\\main\\res\\anim\\mg_slide_out_left.xml"
+    }
+]

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F3F3"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#ffffff"
+        android:fadingEdge="none"
+        android:layout_below="@+id/titlebar" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#929292" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <View style="@style/view_style" />
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_grey"
+                        android:text="1"
+                        android:textColor="#929292" />
+
+                    <View style="@style/view_style" />
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_blue"
+                        android:text="2"
+                        android:textColor="#ffffff" />
+
+                    <View style="@style/view_style" />
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_grey"
+                        android:text="3"
+                        android:textColor="#929292" />
+
+                    <View style="@style/view_style" />
+
+                    <TextView
+                        style="@style/ordertextview_style"
+                        android:background="@drawable/shape_oval_grey"
+                        android:text="4"
+                        android:textColor="#929292" />
+
+                    <View style="@style/view_style" />
+                </LinearLayout>
+            </FrameLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:text="以下为必填项" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="企业客户名称" />
+
+                <EditText
+                    android:id="@+id/company_name"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入企业客户名称" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="法人姓名" />
+                <!-- android:inputType="#abcdefghijklmnopqrstuvwxyz0123456789#" -->
+
+                <EditText
+                    android:id="@+id/fa_name"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入法人的姓名" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="法人身份证号" />
+
+                <EditText
+                    android:id="@+id/fa_idcard"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入法人的身份证号码"
+                    android:inputType="phone|number" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="企业紧急电话" />
+
+                <EditText
+                    android:id="@+id/fa_phone"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入企业紧急电话" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="注册号" />
+
+                <EditText
+                    android:id="@+id/register_no"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入企业注册号" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="经办人姓名" />
+
+                <EditText
+                    android:id="@+id/jing_name"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入经办人姓名" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="经办人身份证号" />
+
+                <EditText
+                    android:id="@+id/jing_carno"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入经办人身份证号"
+                    android:inputType="phone|number" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="15dp"
+                android:background="#EEEEEE" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    style="@style/Textview1_style"
+                    android:text="经办人紧急电话" />
+
+                <EditText
+                    android:id="@+id/jing_phone"
+                    style="@style/EditTex1_style"
+                    android:hint="请输入经办人紧急电话" />
+            </LinearLayout>
+
+           
+        </LinearLayout>
+    </ScrollView>
+ <TextView
+                android:id="@+id/btn_register"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_login_selecter"
+                android:gravity="center"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="50dp"
+                android:padding="10dp"
+                android:text="下一步"
+                android:textColor="@color/white" />
+</RelativeLayout>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/liveness_layout_rootRel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextureView
+        android:id="@+id/liveness_layout_textureview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.megvii.zhimasdk.view.AutoRatioImageview
+        android:id="@+id/liveness_layout_head_mask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/liveness_layout_head_mask"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/liveness_layout_head_mask"
+        android:background="#FFFFFF">
+        <LinearLayout
+            android:id="@+id/liveness_layout_pageNumLinear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:orientation="horizontal"
+        >
+
+            <RelativeLayout
+                android:layout_width="@dimen/liveness_layout_num_image_width"
+                android:layout_height="wrap_content"
+                android:id="@+id/liveness_layout_num_0">
+
+                <com.megvii.zhimasdk.view.AutoRatioImageview
+                    android:id="@+id/liveness_layout_num_image0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/mg_liveness_num_gry"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dip"
+                    android:text="1"
+                    android:textColor="#FCFCFC"
+                    android:textSize="@dimen/liveness_layout_num_text_size"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/liveness_layout_num_image_width"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="45dip"
+                android:id="@+id/liveness_layout_num_1"
+            >
+
+                <com.megvii.zhimasdk.view.AutoRatioImageview
+                    android:id="@+id/liveness_layout_num_image1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/mg_liveness_num_gry"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dip"
+                    android:text="2"
+                    android:textColor="#FCFCFC"
+                    android:textSize="@dimen/liveness_layout_num_text_size"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/liveness_layout_num_image_width"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="45dip"
+                android:id="@+id/liveness_layout_num_2"
+            >
+
+                <com.megvii.zhimasdk.view.AutoRatioImageview
+                    android:id="@+id/liveness_layout_num_image2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/mg_liveness_num_gry"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dip"
+                    android:text="3"
+                    android:textColor="#FCFCFC"
+                    android:textSize="@dimen/liveness_layout_num_text_size"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/liveness_layout_num_image_width"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="45dip"
+                android:id="@+id/liveness_layout_num_3"
+            >
+
+                <com.megvii.zhimasdk.view.AutoRatioImageview
+                    android:id="@+id/liveness_layout_num_image3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/mg_liveness_num_gry"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dip"
+                    android:text="4"
+                    android:textColor="#FCFCFC"
+                    android:textSize="@dimen/liveness_layout_num_text_size"/>
+            </RelativeLayout>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/detection_step_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="3dip"
+            android:text="All Rights Reserved By 芝麻信用"
+            android:textColor="#D5D5D5"
+            android:textSize="10dp"
+            android:visibility="visible" />
+        <include
+            android:id="@+id/liveness_layout_first_layout"
+            layout="@layout/mg_liveness_detection_step"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/detection_step_name"
+            android:layout_below="@id/liveness_layout_pageNumLinear"
+            android:layout_alignParentBottom="true"
+            android:visibility="invisible"/>
+
+        <include
+            android:id="@+id/liveness_layout_second_layout"
+            layout="@layout/mg_liveness_detection_step"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/detection_step_name"
+            android:layout_below="@id/liveness_layout_pageNumLinear"
+            android:layout_alignParentBottom="true"
+            android:visibility="gone"/>
+
+        <LinearLayout
+            android:id="@+id/liveness_layout_bottom_tips_head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dip"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="invisible">
+
+            <TextView
+                android:id="@+id/liveness_layout_promptText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:text="请在光线充足的情况下进行检测"
+                android:textColor="#04C9B3"
+                android:textSize="16dp"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dip"
+                android:src="@drawable/liveness_phoneimage"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.megvii.zhimasdk.view.AutoRatioImageview
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/mg_liveness_logo"
+        android:visibility="visible"/>
+
+    <RelativeLayout
+        android:id="@+id/liveness_layout_cancle"
+        android:clickable="true"
+        android:layout_width="60dip"
+        android:layout_height="60dip">
+
+        <com.megvii.zhimasdk.view.AutoRatioImageview
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="8dip"
+            android:clickable="false"
+            android:scaleType="centerCrop"
+            android:src="@drawable/mg_liveness_cancel"
+            android:visibility="visible"/>
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/liveness_layout_progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"/>
+</RelativeLayout>

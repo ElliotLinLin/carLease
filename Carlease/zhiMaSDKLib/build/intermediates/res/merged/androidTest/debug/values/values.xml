@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detection_step_image_width">100dip</dimen>
+    <dimen name="liveness_layout_num_image_width">25dip</dimen>
+    <dimen name="liveness_layout_num_text_size">12dip</dimen>
+    <dimen name="liveness_layout_timeoutRel_width">30dip</dimen>
+    <dimen name="liveness_layout_timeout_garden_size">15sp</dimen>
+    <string name="app_name">zhimasdk</string>
+</resources>

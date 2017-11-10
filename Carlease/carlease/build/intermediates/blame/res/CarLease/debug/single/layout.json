@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_dialog_floder.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_dialog_floder.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_mine_fgm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_mine_fgm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_onlinebooking2.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_onlinebooking2.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_absfgm2.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_absfgm2.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\activity_listview_delete_slide_view_merge.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\activity_listview_delete_slide_view_merge.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_huz_alert_dialog.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_huz_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_register.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_register.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\activity_third_main.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\activity_third_main.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_action.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_webview.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_webview.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_hotcar_fgm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_hotcar_fgm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\violate_message_item_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\violate_message_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_accountingrules.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_accountingrules.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_absdialogfgm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_absdialogfgm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_dialog_time_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_dialog_time_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pickerview_options.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\findmain_gallery_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\findmain_gallery_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_launcher.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_launcher.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_item_content_image.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_item_content_image.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\mg_livenessdetect_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\layout\\mg_livenessdetect_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\menu_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_mypay.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_mypay.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_onlinebooking1.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_onlinebooking1.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_loading_dialog.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_onlinebooking4.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_onlinebooking4.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_online_order.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_online_order.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_huz_select_dialog_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_huz_select_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\bga_banner_item_image.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\bga_banner_item_image.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_item_dialog_folder.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_item_dialog_folder.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_durable_service.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_durable_service.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\mg_liveness_detection_step.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\layout\\mg_liveness_detection_step.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\oldpop_register.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\oldpop_register.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\toast_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_findpassword.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_findpassword.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_fragment_album.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_fragment_album.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_upgrade_dialog.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_upgrade_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_guide.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_guide.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_item_content_video.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_item_content_video.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\text_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\text_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_myorder.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_myorder.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_home_fgm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_home_fgm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_peopl_zmcert.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_peopl_zmcert.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_push_socket.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_push_socket.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\mg_title_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\layout\\mg_title_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_hotmodeldetails.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_hotmodeldetails.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_onlinebooking3_old.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_onlinebooking3_old.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\choose_three.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\choose_three.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\loading_wait_dialog.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\loading_wait_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_fragment_null.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_fragment_null.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pop_window.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\pop_window.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_volition.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_volition.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pop_citypicker.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\pop_citypicker.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\item_second_fgm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\item_second_fgm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\item_mypay_child.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\item_mypay_child.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_oldusers.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_oldusers.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_fragment_preview.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_fragment_preview.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_pushmessage_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_pushmessage_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_titlebar_body.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_titlebar_body.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_transaction_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_transaction_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\item_myviolation.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\item_myviolation.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_huz_select_dialog_multichoice.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_huz_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\mg_webview_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\layout\\mg_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_titlebar.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_titlebar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_onlinebooking3.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_onlinebooking3.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_uri2.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_uri2.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_activity_main.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_activity_main.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_rentcars_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_rentcars_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_onlinebooking1_old.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_onlinebooking1_old.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_booking_fgm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_booking_fgm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_popupwindow_calendar.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_popupwindow_calendar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\outstorage_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\outstorage_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\activity_outstorage_picture.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\activity_outstorage_picture.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_uri1.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_uri1.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_titlebar2.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_titlebar2.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\layout_driver.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\layout_driver.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\main_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_pay.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_pay.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pickerview_time.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\call_pop.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\call_pop.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_messagedetails.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_messagedetails.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pay_result.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\activity_main.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_item_mymessage.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_item_mymessage.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_orderdetails.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_orderdetails.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_sencond_car_details.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_sencond_car_details.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\item_pic_select.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\item_pic_select.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_activity_preview.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_activity_preview.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_mypay_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_mypay_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_pop_select.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_pop_select.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_huz_select_dialog.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_huz_select_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pop_zx.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\pop_zx.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pop_register.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\pop_register.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\mg_network_layout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\layout\\mg_network_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_test_absui2.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_test_absui2.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_orderpay.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_orderpay.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_feedback.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_feedback.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\album_item_content_button.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\layout\\album_item_content_button.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_item_homeindex.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_item_homeindex.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_wheel_text_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_wheel_text_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_huz_select_dialog_singlechoice.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_huz_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_homepagedetails.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_homepagedetails.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\allview_load_more.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\allview_load_more.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\allview_refresh_head.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\allview_refresh_head.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\dialog_xrgoods_layout.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\dialog_xrgoods_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\activity_car_list_web_view.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\activity_car_list_web_view.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\book_rv_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\book_rv_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_order_item.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_order_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\layout_basepickerview.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\tools_ui_reflect.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\tools_ui_reflect.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\pop_setect.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\pop_setect.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_item_hotcar.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_item_hotcar.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_payresult.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_payresult.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_login.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_login.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout\\ui_myvolition.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\layout\\ui_myvolition.xml"
+    }
+]

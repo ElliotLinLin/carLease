@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="hello">Hello World, MainUI!</string>
+    <string name="app_name">赢时通租购</string>
+    <string name="error_key">key验证无效！</string>
+    <string name="error_other">未知错误，请稍后重试!错误码为</string>
+    <string name="no_result">没有搜索到相关数据</string>
+
+    <!-- 登录注册 -->
+    <string name="login">登\t 录</string>
+    <string name="register">注\t 册</string>
+    <string name="forget_pwd">忘记密码?</string>
+    <string name="Registered_member">用户注册</string>
+    <string name="pass_hint">请输入密码</string>
+    <string name="remember_pass">记住密码</string>
+
+    <string name="pwd_hint">请输入6-20位的密码</string>
+    <string name="pwd_hint2">请输入6—20位的密码</string>
+    <string name="confirm_pwd">确认密码</string>
+    <string name="accounts_hint">请输入手机号码</string>
+    <string name="ComPany_hint">请输入企业码</string>
+    <string name="identifying_code">验证码</string>
+    <string name="getCode">获取验证码</string>
+    <string name="identifying_code_hint">请输入验证码</string>
+    <string name="sure">确\t 定</string>
+    <string name="sure_hint">请输入确认密码</string>
+    <string name="read_agree">我已阅读并同意</string>
+    <string name="read_agree_name">《会员服务条款》</string>
+    <string name="old_userbind">老用户绑定 > > </string>
+    <string name="yephone_hint">请输入手机号码</string>
+    <string name="hetong_no">请输入您的姓名</string>
+    <string name="carNO">请输入您的身份证号码</string>
+    <!-- 预订第一步 -->
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="reminds">以下为必填项</string>
+    <string name="name">客户姓名</string>
+    <string name="edit_name">请输入您的姓名</string>
+    <string name="cardno">身份证号</string>
+    <string name="edit_carno">请输入您的身份证号码</string>
+    <string name="mine_phone">本人电话</string>
+    <string name="jingbanren">业务经办人</string>
+    <string name="editmine_phone">请输入您的手机号码</string>
+    <string name="editmine_jingbanren">请输入您的业务经办人名字</string>
+    <string name="mine_address">下单地址</string>
+    <string name="mine_yewu">业务网点</string>
+    <string name="yewu_hint">请选择业务网点</string>
+    <string name="edit_address">请选择下单地址</string>
+    <string name="getcar">取车地址</string>
+    <string name="editgetcar">请选择取车地址</string>
+    <string name="con">婚姻状况</string>
+    <string name="isor">是否征信</string>
+    <string name="familay">直系亲属</string>
+    <string name="edit_familay">请输入直系亲属的名称</string>
+    <string name="contact">与本人的关系</string>
+    <string name="contact_hint">请选择您和他(她)的关系</string>
+    <string name="fa_phone">亲属联系电话</string>
+    <string name="phone_hint">请输入直系亲属联系电话</string>
+
+    <!-- 修改、找回密码 -->
+    <string name="save">保\t 存</string>
+
+    <!-- 个人中心 -->
+    <string name="myorder">我的订单</string>
+    <string name="myviolation">车辆违章</string>
+    <string name="usecar">我的账单</string>
+    <string name="accountrules">我的消息</string>
+    <string name="data">租赁合同</string>
+    <string name="updatepwd">修改密码</string>
+    <string name="logout">交易记录</string>
+    <string name="remove_pay">支付费用</string>
+    <string name="aplipay">支付宝支付</string>
+    <string name="weixinpay">微信支付</string>
+
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+
+    <!-- 完善资料 -->
+    <string name="perfectdata_prompt2">身份证（正面）</string>
+    <string name="perfectdata_prompt4">（如信息有误，可点击从新读取）</string>
+    <string name="perfectdata_prompt3">身份证（反面）</string>
+    <string name="perfectdata_prompt1">\t\t 租车服务需要您提供以下身份资料证明，提交审核结果于半小时内推送消息告知</string>
+    <string name="submit">提\t交</string>
+
+    <!-- 意见反馈 -->
+    <string name="feedback_email">邮箱或电话</string>
+    <string name="feedback_proposal">请输入您的宝贵意见和建议。。。</string>
+    <string name="email">邮\t箱:</string>
+    <string name="clear"><u>清        除</u></string>
+
+    <!-- 订单填写 -->
+    <string name="unstill_time">取车时间</string>
+    <string name="renew_time">开始时间</string>
+    <string name="still_time">还车时间</string>
+    <string name="unstill_place">取车地点</string>
+    <string name="still_place">还车地点</string>
+    <string name="choose_model">选择车型</string>
+    <string name="next">下一步</string>
+    <string name="still_place_describe">默认跟取车地点为同一个，但也可选择</string>
+    <string name="highestdaily">(24小时最高¥0)</string>
+    <string name="insurance_expense">基本保险费</string>
+    <string name="insurancecost">（¥5/小时）</string>
+    <string name="defult_cost">¥0</string>
+    <string name="value_added_service">增值服务</string>
+    <string name="CampaignPromotion">优惠项</string>
+
+    <!-- 订单确认 -->
+    <string name="rentcarcost">租车费用</string>
+    <string name="Costbreakdown">租车费用明细</string>
+    <string name="VAS_cost">增值服务费用</string>
+    <string name="Cardeposit">租车押金</string>
+    <string name="allcost">合计</string>
+    <string name="Submitorder">提交订单</string>
+    <string name="confirmorder_takecare">注：订单结束后（无违章）30天内押金将退回您支付的帐号内。</string>
+    <string name="Agreement">《汇租车租赁合同》</string>
+    <string name="agree"> 我已阅读并同意</string>
+
+    <!-- 订单详情 -->
+    <string name="cancelorder">取消订单</string>
+    <string name="dpay">支付订单</string>
+    <string name="relet">续\t\t租</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载。。。</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+    <!-- 订单支付 -->
+    <string name="backchangerules">退改规则\n
+1. 在预定取车时间前6小时以上取消订单将不收取任何费用；不足6小时取消订单，将收取订单总费用的20%费用（指包括租金、增值服务费等的总额）作为违约金
+\n2.在预定还车时间前6小时以上可以提出续租要求，我司视车辆实际使用情况进行安排，若不能安排，需在预定时间内还车，否则视为违约处理
+\n3.允许提前还车，但已预付的租金不退
+</string>
+    <string name="ordercode">订单号</string>
+    <string name="ts">支付时长，30分钟</string>
+    <string name="cancel">取\t消</string>
+    <string name="pay">支\t付</string>
+    <string name="ordercost">订单金额</string>
+    <string name="kpay">立即支付</string>
+
+    <!-- 支付成功 -->
+    <string name="payresult">支付成功</string>
+    <string name="payresult_ts">\na、取车时您可通过APP操作车辆，请按规范指引正确操作，如违规操作造成车辆损坏、车辆被盗等损失由租车人承担相应责任。
+\nb、请为您租用的车辆预留充足的使用时间，并至少提前6小时完成续租。
+\nc、当您做远程开门、开后尾箱、一键启动等操作的时候，请确保您已在所租车辆旁边，并按提示正确操作，避免因远程操作造成车辆被盗等损失。    </string>
+
+    <!-- 语音播报 -->
+    <string name="preference_default_tts_role">xiaoyan</string>
+    <string name="preference_key_tts_speed">tts_speed</string>
+    <string name="preference_key_tts_volume">tts_volume</string>
+    <string name="preference_key_tts_pitch">tts_pitch</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新&#8230;</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="has_loading">正在加载&#8230;</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+    <string name="app_tip">提示</string>
+    <string name="getting_prepayid">正在获取预支付订单.....</string>
+    <string name="inputtype">0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="inputtype3">0123456789Xx</string>
+    <string name="inputtype2">0123456789.</string>
+    <string name="zhengxin">查询及采集授权
+\n1．本人同意并授权_中诚信征信有限公司、鹏元征信有限公司（以下简称“被授权机构”）通过中诚信征信有限公司/鹏元征信有限公司等依法设立的征信机构核实或查询本人的个人信用信息，并同意该等征信机构在法律、行政法规许可的范围内，向包括但不限于金融机构、政府部门、其他商业机构等第三方信息提供者合法地核实或采集本人信用信息并将该等信息进行整理、保存、加工以用于本人的个人征信服务（以下简称“本授权”）；该等个人信用信息包括但不限于本人的身份信息、受教育情况等个人基本信息，金融机构和其他商业机构的贷款及偿还记录、信用交易记录等个人信贷记录，以及社会公共信息、各类消费行为信息、信用查询记录等其他个人信用信息；但不包括法律、行政法规禁止采集的个人信息。本人同意为避免重复授权之不便，本授权表明该等第三方信息提供者在向征信机构提供本人信息时，可以依据本授权径行向征信机构提供本人相关信息，而无需再逐一向本人另行获取授权。
+\n2．本人知晓并同意，该等第三方信息提供者向征信机构提供的信息可能包括本人的不良信息，以及本人个人的收入、存款、有价证券、商业保险、不动产的信息和纳税数额信息等较为私密的信息，同时本人在做出前述同意之前已经知晓、充分理解并接受上述较为私密的信息被提供、采集和使用可能产生的不利后果，包括但不限于：将上述信息应用于对本人的信用评估或出具信用报告后，可能导致本人在申请某项业务时（如网络信贷），提供该等业务的机构因参考上述信用评估或信用报告而最终拒绝或终止向本人提供该等业务；以及虽采取了严格的符合国家认证标准的安全保护措施对所采集的上述信息实施了安全保护，但仍可能存在的因不可抗力或高科技本身所不可克服的漏洞或意外的恶意黑客攻击导致部分信息泄露的风险。
+
+本人已充分阅读、理解并完全同意本授权书的所有内容。
+        
+    </string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFF">
+    <TextView 
+        android:id="@+id/tv_pop"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ceshi"
+        android:background="#FFFFFF"
+        android:padding="@dimen/x20"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/x24"/>
+    <TextView 
+        android:id="@+id/tv_carnum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ceshi"
+        android:background="#FFFFFF"
+        android:paddingLeft="@dimen/x20"
+        android:paddingBottom="@dimen/y10"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/x24"
+        android:visibility="gone"/>
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#D7DDE9"/>
+</LinearLayout>

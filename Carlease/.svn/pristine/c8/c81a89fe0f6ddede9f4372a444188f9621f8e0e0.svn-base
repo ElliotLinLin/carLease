@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2F3F8"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/volition_top_bg"
+        android:orientation="vertical" >
+
+        <LinearLayout style="@style/volition_linear" >
+
+            <TextView
+                style="@style/tv_volition"
+                android:text="车牌号码："
+                android:layout_gravity="center_vertical|left" />
+
+            <TextView
+                android:id="@+id/tv_myviolation_carNO"
+                style="@style/tv_volition2" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/volition_linear" >
+
+            <TextView
+                style="@style/tv_volition"
+                android:text="违章时间："
+                 android:layout_gravity="center_vertical|left" />
+
+            <TextView
+                android:id="@+id/tv_myviolation_vtime"
+                style="@style/tv_volition2" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/volition_linear" >
+
+            <TextView
+                style="@style/tv_volition"
+                android:text="违章地点：" 
+                 android:layout_gravity="center_vertical|left"/>
+
+            <TextView
+                android:id="@+id/tv_myviolation_vplace"
+                style="@style/tv_volition2"
+                android:maxLines="2" />
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/volition_linear"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x20"
+                android:layout_weight="1"
+                android:text="交警支队："
+                android:textColor="@color/wzy_black_6"
+                android:textSize="@dimen/x28" />
+
+            <TextView
+                android:id="@+id/tv_myviolation_vreason"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:text="闯红灯"
+                android:textSize="@dimen/x26" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/volition_linear" >
+
+            <TextView
+                style="@style/tv_volition"
+                android:text="行        为："
+                 android:layout_gravity="center_vertical|left" />
+
+            <TextView
+                android:id="@+id/tv_myviolation_status"
+                style="@style/tv_volition2"
+                android:maxLines="3"
+                 />
+        </LinearLayout>
+
+        <LinearLayout style="@style/volition_linear" >
+
+            <TextView
+                style="@style/tv_volition"
+                android:text="违章处罚："
+                 android:layout_gravity="center_vertical|left" />
+
+            <TextView
+                android:id="@+id/tv_myviolation_way"
+                style="@style/tv_volition2" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="4px"
+        android:layout_marginLeft="@dimen/x24"
+        android:layout_marginRight="@dimen/x24"
+        android:background="@drawable/bg_dash_line"
+        android:layerType="software" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/volition_bottom_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_totalmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x20"
+            android:text="总罚金"
+            android:textColor="@color/wzy_black_6"
+            android:textSize="@dimen/x28"
+            android:paddingLeft="@dimen/x20"
+             android:layout_gravity="center_vertical|left" />
+       <LinearLayout
+            android:id="@+id/tv_pay"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="right|center_vertical"
+            android:orientation="horizontal"
+            android:layout_marginRight="@dimen/x40" >
+
+            <TextView
+                android:id="@+id/paystatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/y20"
+                android:text="付款代办"
+                android:textSize="@dimen/x22" 
+                android:textColor="@android:color/white"
+                android:background="@drawable/shape_order_orange"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

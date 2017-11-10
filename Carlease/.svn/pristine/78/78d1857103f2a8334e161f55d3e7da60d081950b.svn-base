@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttonisClassExists"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="isClassExists" />
+
+        <Button
+            android:id="@+id/buttonisMethodExists"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="isMethodExists" />
+
+        <Button
+            android:id="@+id/buttonisFieldExists"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="isFieldExists" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttongetMethod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="getMethod" />
+
+        <Button
+            android:id="@+id/buttoninvokeMethod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="invokeMethod" />
+
+        <Button
+            android:id="@+id/buttongetObject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="getFieldObject" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttonprintClass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="printClass" />
+
+        <Button
+            android:id="@+id/buttoncreateObject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="createObject" />
+    </LinearLayout>
+
+</LinearLayout>

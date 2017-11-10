@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\work\Carlease\carlease\src\main\shaders"/></dataSet><dataSet config="CarLease"><source path="E:\work\Carlease\carlease\src\CarLease\shaders"/></dataSet><dataSet config="debug"><source path="E:\work\Carlease\carlease\src\debug\shaders"/></dataSet><dataSet config="CarLeaseDebug"><source path="E:\work\Carlease\carlease\src\CarLeaseDebug\shaders"/></dataSet></merger>

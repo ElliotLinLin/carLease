@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="companylist_text_size">9.8dip</dimen>
+    <dimen name="main_ui_text_size">16sp</dimen>
+    <dimen name="text_size">21dip</dimen>
+    <dimen name="version_text_size">15sp</dimen>
+</resources>

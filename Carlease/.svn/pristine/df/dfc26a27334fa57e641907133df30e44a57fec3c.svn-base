@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.hst.Carlease"
+          android:versionCode="1"
+          android:versionName="1.1.10">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <!-- <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/> -->
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER"/>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.SENSOR_INFO"/>
+    <uses-permission android:name="android.permission.SENSOR_ENABLE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+        android:name=".app.MainApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_lanucher"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:theme="@style/tools_AppTheme"
+        tools:replace="android:icon">
+
+        <!-- 高德地图key -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="e9eca0bb1310856ee3a2282d9cf53fe7"/>
+        <!-- 导航页 -->
+        <activity
+            android:name=".ui.LauncherGuideUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <!-- 注册界面 1 -->
+        <activity
+            android:name=".ui.RegisterUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 老用户绑定界面 2 -->
+        <activity
+            android:name=".ui.OldUserBingUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 找回密码 3 -->
+        <activity
+            android:name=".ui.FindPassUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 修改密码 4 -->
+        <activity
+            android:name=".ui.UpdatePassUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 我的订单 5 -->
+        <activity
+            android:name=".ui.MyOrderUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 我的订单 6 -->
+        <activity
+            android:name=".ui.RentCarWebviewUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 交易记录 7 -->
+        <activity
+            android:name=".ui.TransactionHistoryUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 我的账单 8 -->
+        <activity
+            android:name=".ui.PayUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 订单支付 9 -->
+        <activity
+            android:name=".ui.OrderPayUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 主界面 10 -->
+        <activity
+            android:name=".ui.fragement.MainUI2"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 我的订单详情 11 -->
+        <activity
+            android:name=".ui.MyOrderDetailsUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 我的账单 12 -->
+        <activity
+            android:name=".ui.MyPayUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 我的违章 13 -->
+        <activity
+            android:name=".ui.MyViolationUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 我的信息 14 -->
+        <activity
+            android:name=".ui.MyMessageUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 广告详情 15 -->
+        <activity
+            android:name=".ui.HomePageDetailsUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <!-- 热门车型详情 16 -->
+        <activity
+            android:name=".ui.HotModelDetailsUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 在线预订第一步 17 -->
+        <activity
+            android:name=".ui.OnlineBookingUI1"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan">
+        </activity>
+        <!-- 在线预订第2步 18 -->
+        <activity
+            android:name=".ui.OnlineBookingUI2"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 在线预订第3步 19 -->
+        <activity
+            android:name=".ui.OnlineBookingUI3"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN"/>-->
+
+            <!--<category android:name="android.intent.category.LAUNCHER"/>-->
+            <!--</intent-filter>-->
+        </activity>
+
+        <!-- 推送过度页 20 -->
+        <activity
+            android:name=".ui.LauncherPassUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 主界面 21 -->
+        <activity
+            android:name=".ui.MainUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 登录界面 22 -->
+        <activity
+            android:name=".ui.LoginUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden">
+        </activity>
+        <!-- 消息详情 23 -->
+        <activity
+            android:name=".ui.MyMessageDetailsUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"/>
+        <!-- 我的订单 24 -->
+        <activity
+            android:name=".ui.RentCarsUI"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 选择分公司 25 -->
+        <activity
+            android:name=".ui.BranchOfficeUI"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 选择门店 26 -->
+        <activity
+            android:name=".ui.StoreUI"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 协议界面界面 27 -->
+        <activity
+            android:name=".ui.WebViewUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 协议界面界面 28 -->
+        <activity
+            android:name=".ui.TmWebViewUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 未安装支付宝支付宝开始界面 -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+        </activity>
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind">
+        </activity>
+
+        <!-- 引导页界面 29 -->
+        <activity
+            android:name=".ui.GuideUI"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+        </activity>
+        <!-- 费用类型界面 30 -->
+        <activity
+            android:name=".ui.FeeTypeUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 预订界面 31 -->
+        <activity
+            android:name=".ui.OnlineOrderUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 费用类型界面 32 -->
+        <activity
+            android:name=".ui.SecondCarDetailsUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 付款合同界面 33 -->
+        <activity
+            android:name=".ui.PayHeTongUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 第三期首页 -->
+        <activity
+            android:name=".ui.thirdperiodui.ThirdMainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 第三期出入库 -->
+        <activity
+            android:name=".ui.thirdperiodui.OutStoragePictureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <!-- 人脸识别界面 34 -->
+        <activity
+            android:name=".ui.FeedBacktUI"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+        </activity>
+        <!-- 推送服务 35 -->
+        <service
+            android:name=".service.PushService"
+            android:process=":push">
+            <intent-filter android:priority="1000">
+                <action android:name="com.hst.huizuclientv1.service.PushService"/>
+            </intent-filter>
+        </service>
+        <!-- 定位需要的服务 使用2.0的定位需要加上这个 -->
+        <service android:name="com.amap.api.location.APSService">
+        </service>
+        <!-- 开机广播 -->
+        <receiver
+            android:name=".receiver.BootReceiver"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <!-- 支付宝开始界面 -->
+        <!-- <activity -->
+        <!-- android:name="com.alipay.sdk.app.H5PayActivity" -->
+        <!-- android:configChanges="orient ation|keyboardHidden|navigation" -->
+        <!-- android:exported="false" -->
+        <!-- android:screenOrientation="behind" -->
+        <!-- android:windowSoftInputMode="adjustResize|stateHidden" > -->
+        <!-- </activity> -->
+        <!-- 支付宝 -->
+        <!-- <activity -->
+        <!-- android:name="com.alipay.sdk.auth.AuthActivity" -->
+        <!-- android:configChanges="orientation|keyboardHidden|navigation" -->
+        <!-- android:exported="false" -->
+        <!-- android:screenOrientation="behind" > -->
+        <!-- </activity> -->
+        <!-- 征信 -->
+        <activity android:name="com.megvii.zhimasdk.MGLivenessDetectActivity"/>
+        <activity android:name="com.megvii.zhimasdk.MGLoadActivity"/>
+        <activity android:name="com.megvii.zhimasdk.MGWebViewActivity"/>
+
+        <!-- 微信支付回调界面 -->
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+
+        <receiver android:name="net.sourceforge.simcpux.AppRegister">
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP"/>
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".ui.thirdperiodui.CarListWebViewActivity"
+            >
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN"/>-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER"/>-->
+            <!--</intent-filter>-->
+        </activity>
+    </application>
+
+</manifest>

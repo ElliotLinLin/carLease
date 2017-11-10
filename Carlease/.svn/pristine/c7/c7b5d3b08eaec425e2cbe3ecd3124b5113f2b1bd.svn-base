@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="tools_titlebar">
+        <!-- <attr name="left0Visibility">
+            <enum name="visible" value="1"/>
+            <enum name="invisible" value="2"/>
+            </attr>
+            
+         <attr name="left1Visibility">
+            <enum name="visible" value="1"/>
+            <enum name="invisible" value="2"/>
+            </attr>
+            
+          <attr name="right0Visibility">
+            <enum name="visible" value="1"/>
+            <enum name="invisible" value="2"/>
+            </attr>
+            
+           <attr name="right1Visibility">
+            <enum name="visible" value="1"/>
+            <enum name="invisible" value="2"/>
+            </attr> -->
+            
+           <attr name="title" format="string"/>
+          <!--  <attr name="left0background" format="reference"/>
+           <attr name="left1background" format="reference"/>
+           <attr name="right0background" format="reference"/>
+           <attr name="right1background" format="reference"/> -->
+           
+            <attr name="background_left0" format="reference"/>
+           <attr name="background_left1" format="reference"/>
+           <attr name="background_right0" format="reference"/>
+           <attr name="background_right1" format="reference"/>
+           
+    </declare-styleable>
+    
+    
+</resources>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context="com.hst.Carlease.ui.thirdperiodui.ThirdMainActivity">
+
+    <LinearLayout
+        android:background="#EFEFEF"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_150"
+            android:background="@drawable/head_bg">
+
+            <ImageView
+                android:id="@+id/iviv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_30"
+                android:src="@drawable/logo"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iviv"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_20"
+                android:text="赢时通ERP管理系统"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_30"
+                android:textStyle="bold"/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_car_manager"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/car_manager_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="车辆管理"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn_yewu"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/yewu_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="业务申请"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_car_weihu"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/car_weihu_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="车辆维护"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn_hetong_manager"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/hetong_manager_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="合同管理"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_money"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/dollor_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="费用申请"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn_qianzai_kehu"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/qianzai_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="潜在客户"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_shou_car"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/shouche_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="收车"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btn_qiankuan_kehu"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp_90"
+                android:layout_margin="@dimen/dp_5"
+                android:layout_weight="1"
+                android:background="@drawable/qiankuan_selector"
+                android:gravity="bottom|center_horizontal"
+                android:paddingBottom="10dp"
+                android:text="欠款客户"
+                android:textColor="@drawable/text_blue_black_selector"
+                android:textSize="@dimen/dp_18">
+
+            </Button>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_100">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_50"
+                android:layout_marginTop="@dimen/dp_10"
+                android:src="@drawable/bells"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/imageView2"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_toEndOf="@+id/imageView2"
+                android:layout_toRightOf="@+id/imageView2"
+                android:text="提醒:"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/dp_18"
+                android:id="@+id/textView3"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="您有一笔费用需要审批"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/dp_18"
+                android:layout_centerVertical="true"
+                android:layout_alignLeft="@+id/textView3"
+                android:layout_alignStart="@+id/textView3"
+                android:id="@+id/textView4"/>
+            <TextView
+                android:text="您申报的业务已审批通过!"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/dp_18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dp_10"
+                android:layout_below="@+id/textView4"
+                android:layout_alignLeft="@+id/textView4"
+                android:layout_alignStart="@+id/textView4"
+                android:layout_marginTop="6dp"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_80">
+
+            <ImageView
+                android:id="@+id/iv_exit"
+                android:layout_centerInParent="true"
+                android:src="@drawable/exit"
+                android:layout_width="@dimen/dp_100"
+                android:layout_height="@dimen/dp_50"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="@dimen/x300"
+            android:layout_height="@dimen/x100"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/y120"
+            android:src="@drawable/ylogo3x" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x28"
+            android:layout_marginRight="@dimen/x28"
+            android:layout_marginTop="@dimen/y520"
+            android:background="@drawable/shape_rangkle_black"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_rankle_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="@dimen/x35"
+                        android:layout_height="@dimen/x35"
+                        android:layout_marginLeft="@dimen/x30"
+                        android:src="@drawable/login_icon_user" />
+
+                    <TextView
+                        android:layout_width="1dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:layout_marginBottom="@dimen/y10"
+                        android:layout_marginTop="@dimen/y10"
+                        android:background="@drawable/line_between"
+                        android:visibility="invisible" />
+
+                    <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2.5" >
+
+                        <Button
+                            android:id="@+id/btn_login_clear1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="2dp"
+                            android:background="@drawable/clear_input"
+                            android:visibility="gone" />
+
+                        <EditText
+                            android:id="@+id/et_login_Account"
+                            android:layout_width="fill_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="@dimen/x30"
+                            android:layout_toLeftOf="@id/btn_login_clear1"
+                            android:background="@null"
+                            android:hint="请输入账号"
+                            android:paddingBottom="@dimen/x20"
+                            android:paddingTop="@dimen/x20"
+                            android:singleLine="true"
+                            android:textColorHint="#C1C0C0"
+                            android:textSize="@dimen/x24" >
+                        </EditText>
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y20"
+                    android:background="@drawable/shape_rankle_white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="@dimen/x35"
+                        android:layout_height="@dimen/x40"
+                        android:layout_marginLeft="@dimen/x32"
+                        android:gravity="center_vertical"
+                        android:src="@drawable/login_icon_lock" />
+
+                    <TextView
+                        android:layout_width="1dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:background="@drawable/line_between"
+                        android:visibility="invisible" />
+
+                    <RelativeLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2.5" >
+
+                        <Button
+                            android:id="@+id/btn_login_clear2"
+                            android:layout_width="@dimen/x35"
+                            android:layout_height="@dimen/x35"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_margin="@dimen/x10"
+                            android:layout_marginRight="@dimen/x10"
+                            android:background="@drawable/visible" />
+
+                        <EditText
+                            android:id="@+id/et_login_Password"
+                            android:layout_width="fill_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:layout_toLeftOf="@id/btn_login_clear2"
+                            android:background="@null"
+                            android:hint="@string/pass_hint"
+                            android:inputType="textPassword"
+                            android:paddingBottom="@dimen/x20"
+                            android:paddingTop="@dimen/x20"
+                            android:singleLine="true"
+                            android:textColorHint="#C1C0C0"
+                            android:textSize="@dimen/x24" >
+                        </EditText>
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <CheckBox
+                    android:id="@+id/checkbox"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="@dimen/x10"
+                    android:button="@drawable/checkbox_login_selecter"
+                    android:checked="true" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/checkbox"
+                    android:text="@string/remember_pass"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/x24" />
+
+                <TextView
+                    android:id="@+id/tv_login_forgetpwd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="@dimen/x10"
+                    android:text="@string/forget_pwd"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/x26" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y50"
+                android:layout_marginTop="@dimen/y40"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/btn_login_Login"
+                    style="@style/vertical_line"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/y80"
+                    android:layout_marginLeft="@dimen/x20"
+                    android:layout_marginRight="@dimen/x20"
+                    android:layout_weight="1"
+                    android:background="@drawable/login_bg"
+                    android:gravity="center"
+                    android:text="@string/login"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/x24" />
+
+                <TextView
+                    android:id="@+id/tv_login_Register"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/y80"
+                    android:layout_marginLeft="@dimen/x20"
+                    android:layout_marginRight="@dimen/x20"
+                    android:layout_weight="1"
+                    android:background="@drawable/login_bg"
+                    android:gravity="center"
+                    android:text="@string/register"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/x24" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

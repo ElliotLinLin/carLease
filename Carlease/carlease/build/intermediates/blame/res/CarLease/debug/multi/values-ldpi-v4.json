@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\work\\Carlease\\carlease\\build\\intermediates\\incremental\\mergeCarLeaseDebugResources\\merged.dir\\values-ldpi-v4\\values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\carlease\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 54,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 48,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\carlease\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 5,
+                        "startOffset": 157,
+                        "endColumn": 49,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 41,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\carlease\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 48,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "E:\\work\\Carlease\\carlease\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 208,
+                        "endColumn": 49,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    }
+]

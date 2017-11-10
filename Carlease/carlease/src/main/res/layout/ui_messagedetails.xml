@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/titlebar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/y20"
+        android:padding="@dimen/x20"
+        android:layout_marginLeft="@dimen/x15"
+        android:text="您好，您当月应交款为3600元"
+        android:textSize="@dimen/x32" 
+        android:textColor="#333333"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tiem"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x35"
+        android:text="2106—3-1" 
+        android:textSize="@dimen/x28"
+         android:textColor="@color/wzy_black_3"/>
+ <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginLeft="@dimen/x10"
+        android:layout_marginRight="@dimen/x10"
+        android:background="@drawable/line" />
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/x20"
+        android:text="您好尊敬的X先生，当月应交款为6500，其中"
+         android:textSize="@dimen/x28" 
+         android:layout_marginLeft="@dimen/x15"
+         android:textColor="@color/wzy_black_6"/>
+
+</LinearLayout>

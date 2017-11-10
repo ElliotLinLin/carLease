@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F0F0"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/y350"
+                android:background="@drawable/bg_lan">
+
+                <TextView
+                    android:id="@+id/user_pic"
+                    android:layout_width="@dimen/y150"
+                    android:layout_height="@dimen/y150"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/user_pic"/>
+
+                <TextView
+                    android:id="@+id/username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/user_pic"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="10dp"
+                    android:text="17875916073"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/x28"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rv_myorder"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_order"/>
+
+                <TextView
+                    android:id="@+id/tvtext"
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo"
+                    android:text="@string/myorder"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/rent_cars"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo4"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_contact"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo4"
+                    android:text="@string/data"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/rv_myvolition"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo2"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_volition"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo2"
+                    android:text="@string/myviolation"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/rv_mypay"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo1"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_mypay"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo1"
+                    android:text="@string/usecar"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/rv_pay"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo7"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_payfree"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo7"
+                    android:text="@string/remove_pay"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/rv_logout"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo6"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_payhistory"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo6"
+                    android:text="@string/logout"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/rv_mymessage"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo3"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_message"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo3"
+                    android:text="@string/accountrules"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View
+                style="@style/me_line"
+                android:visibility="gone"/>
+
+            <RelativeLayout
+                android:id="@+id/pople"
+                style="@style/me_relative"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/im_logo8"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_tosay"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/im_logo8"
+                    android:text="人脸识别(留言反馈)"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/update_pass"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo5"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/me_updatepass"/>
+
+                <TextView
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo5"
+                    android:text="@string/updatepwd"/>
+
+                <TextView style="@style/me_right"/>
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:id="@+id/call_paone"
+                style="@style/me_relative">
+
+                <ImageView
+                    android:id="@+id/im_logo15"
+                    style="@style/iv_meimage"
+                    android:background="@drawable/phone_call"/>
+
+                <TextView
+                    android:id="@+id/textview"
+                    style="@style/minetextview"
+                    android:layout_toRightOf="@+id/im_logo15"
+                    android:text="客服热线"/>
+
+                <TextView
+                    android:id="@+id/telphone"
+                    style="@style/minetextview"
+                    android:layout_alignParentRight="true"
+                    android:padding="@dimen/x20"
+                    android:text="400-658-1658"
+                    android:textColor="#4394E2"
+                    android:textStyle="bold"/>
+
+
+            </RelativeLayout>
+
+            <View style="@style/me_line"/>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/y80"
+                android:layout_marginBottom="@dimen/y20"
+                android:layout_marginTop="@dimen/y20">
+
+                <Button
+                    android:id="@+id/btn_login_Login"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/y80"
+                    android:layout_marginLeft="@dimen/x30"
+                    android:layout_marginRight="@dimen/x30"
+                    android:layout_marginTop="@dimen/y20"
+                    android:background="@drawable/btn_login_selecter"
+                    android:text="注销"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/x24"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

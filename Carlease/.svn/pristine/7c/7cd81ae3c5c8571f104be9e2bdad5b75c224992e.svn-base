@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/titleBar_message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" />
+
+    <com.hst.Carlease.pulltorefresh.PullToRefreshLayout
+        android:id="@+id/message_querymsg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/allview_refresh_head" />
+
+        <com.hst.Carlease.leftdeleteview.ListViewCompat
+            android:id="@+id/message_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="#00000000"
+            android:clickable="false"
+            android:divider="#00000000"
+            android:dividerHeight="2dp"
+            android:focusableInTouchMode="false"
+            android:scrollbars="none" >
+        </com.hst.Carlease.leftdeleteview.ListViewCompat>
+
+        <include layout="@layout/allview_load_more" />
+    </com.hst.Carlease.pulltorefresh.PullToRefreshLayout>
+
+</LinearLayout>

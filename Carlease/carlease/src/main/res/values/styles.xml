@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ui_main 主页的Text -->
+    <style name="car_remote_control_text">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FF7700</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="order_exp_listview_group">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#3F3F3F</item>
+    </style>
+
+    <style name="order_exp_listview_child">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#474747</item>
+    </style>
+
+    <style name="order_exp_listview_child_1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#757575</item>
+    </style>
+
+    <style name="car_model_price_tv">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#616161</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="car_model_price_linear">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="linear_order_detail_child">
+        <item name="android:layout_marginTop">5dip</item>
+        <item name="android:layout_marginBottom">5dip</item>
+    </style>
+
+    <style name="tools_filter_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <!-- 我自己的界面样式 -->
+    <style name="menu_icon_tv">
+        <item name="android:layout_marginTop">@dimen/y8</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+
+    <style name="menu_item_ll">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="menu_tv_title">
+        <item name="android:textSize">@dimen/x20</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="vertical_line">
+        <item name="android:layout_width">@dimen/x3</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#B3B6B7</item>
+        <item name="android:layout_marginRight">@dimen/x10</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+    </style>
+     <style name="txvertical_line">
+        <item name="android:layout_width">@dimen/x3</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#B3B6B7</item>
+        <item name="android:layout_marginRight">@dimen/x10</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:layout_marginTop">@dimen/x10</item>
+        <item name="android:layout_marginBottom">@dimen/x10</item>
+    </style>
+    <!-- 登录界面的style -->
+    <style name="login_bg">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/x60</item>
+        <item name="android:layout_marginLeft">@dimen/x60</item>
+        <item name="android:background">@drawable/shape_rankle_white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">@dimen/x20</item>
+    </style>
+
+    <style name="login_edit">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:textSize">@dimen/x26</item>
+        <item name="android:textColorHint">#808386</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <!-- 注册界面的linea -->
+    <style name="register_bg">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/y100</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">@dimen/x20</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+
+    <style name="gettextCode">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">@dimen/x15</item>
+        <item name="android:layout_weight">0.6</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:text">@string/getCode</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginRight">@dimen/x20</item>
+        <item name="android:textSize">@dimen/x24</item>
+        <item name="android:background">@drawable/shape_btn_login</item>
+    </style>
+
+    <style name="textregister">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/x30</item>
+        <item name="android:textColor">#666666</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <!-- 输入验证码的布局的style -->
+    <style name="verification_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/y90</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="registerimage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <!-- Titlebar布局的style -->
+    <style name="titlebar_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#2A8AE0</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:clipToPadding">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <!-- View布局的style 提交订单部分的 -->
+    <style name="view_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <!-- TextView布局的style 提交订单部分的 -->
+    <style name="ordertextview_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <!-- TextView布局的style 提交订单部分的 -->
+    <style name="Textview1_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginLeft">@dimen/x30</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">@dimen/x24</item>
+    </style>
+
+    <!-- EditTextView布局的style 提交订单部分的 -->
+    <style name="EditTex1_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.5</item>
+        <item name="android:background">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">@dimen/x22</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/wzy_black_6</item>
+        <item name="android:layout_marginRight">@dimen/x20</item>
+        <item name="android:paddingTop">@dimen/dp_5</item>
+        <item name="android:paddingBottom">@dimen/dp_5</item>
+        <!--<item name="android:padding">@dimen/x10</item>-->
+    </style>
+    <!-- popwindow的样式 -->
+    <style name="AnimationUpPopup">
+        <item name="android:windowEnterAnimation">@anim/popup_grow_fade_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/popup_shrink_fade_out_from_bottom</item>
+    </style>
+
+    <style name="AnimationFromButtom">
+        <item name="android:windowEnterAnimation">@anim/popup_form_bottom</item>
+        <item name="android:windowExitAnimation">@anim/popup_drop_down_to_bottom</item>
+    </style>
+
+    <style name="AnimationFromTop">
+        <item name="android:windowEnterAnimation">@anim/popup_drop_down_from_top</item>
+        <item name="android:windowExitAnimation">@anim/popup_hide_to_top</item>
+    </style>
+
+    <style name="AnimationFromBack">
+        <item name="android:windowEnterAnimation">@anim/popup_show_0_from_100</item>
+        <item name="android:windowExitAnimation">@anim/popup_show_100_to_0</item>
+    </style>
+
+    <!-- EditTextView布局的style 提交订单部分的 -->
+    <style name="details_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/x28</item>
+        <item name="android:layout_marginLeft">@dimen/x30</item>
+    </style>
+
+    <style name="pay_text">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:layout_marginLeft">@dimen/x30</item>
+        <item name="android:textSize">@dimen/x28</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="pay_text2">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/x26</item>
+        <item name="android:textColor">@color/wzy_black_6</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/x20</item>
+    </style>
+
+    <style name="tv_volition">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:textSize">@dimen/x28</item>
+        <item name="android:textColor">@color/wzy_black_6</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="tv_volition2">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">3</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:textSize">@dimen/x26</item>
+        <item name="android:textColor">@color/wzy_black_6</item>
+    </style>
+
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="volition_linear">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginTop">@dimen/y20</item>
+    </style>
+
+    <style name="paylayout">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/y120</item>
+        <item name="android:background">@drawable/shape_rankle_white</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="btn_sc">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/btn_login_selecter</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:text">上传</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="img_sc">
+        <item name="android:layout_width">@dimen/x366</item>
+        <item name="android:layout_height">@dimen/y236</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:src">@drawable/bg_border_stroke</item>
+    </style>
+
+    <style name="tv_sc">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/x20</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">#2A8AE0</item>
+    </style>
+
+    <style name="fgm_tv">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">@dimen/x24</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">@dimen/x15</item>
+    </style>
+    <style   name="imageonline">
+         <item name="android:layout_width">@dimen/x24</item>
+        <item name="android:layout_height">@dimen/x14</item>
+        <item name="android:background">@drawable/collapsed</item>
+    </style>
+
+    <style name="tv_pay">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">@dimen/x24</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#666666</item>
+    </style>
+
+    <style name="tv_paym">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">@dimen/x24</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="iv_meimage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">@dimen/x10</item>
+    </style>
+
+    <style name="me_right">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginRight">@dimen/x40</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/select</item>
+    </style>
+
+    <style name="me_relative">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/y80</item>
+        <item name="android:background">#ffffff</item>
+    </style>
+
+    <style name="me_line">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/y2</item>
+        <item name="android:background">#E8E8E8</item>
+    </style>
+    <style name="minetextview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">#666666</item>
+        <item name="android:textSize">@dimen/x30</item>
+    </style>
+    <style name="BannerDefaultStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <!-- 自定义属性在styles.xml中不需要命名空间,直接用属性名就可以了 -->
+        <!-- 开启自动轮播 -->
+        <item name="banner_pointAutoPlayAble">true</item>
+        <!-- 自动轮播的时间间隔 -->
+        <item name="banner_pointAutoPlayInterval">3000</item>
+        <!-- 指示点容器背景 -->
+        <item name="banner_pointContainerBackground">#44aaaaaa</item>
+        <!-- 指示点背景 -->
+        <item name="banner_pointDrawable">@drawable/bga_banner_selector_point_hollow</item>
+        <!-- 指示点容器左右内间距 -->
+        <item name="banner_pointContainerLeftRightPadding">10dp</item>
+        <!-- 指示点上下外间距 -->
+        <item name="banner_pointTopBottomMargin">6dp</item>
+        <!-- 指示点左右外间距 -->
+        <item name="banner_pointLeftRightMargin">3dp</item>
+        <!-- 指示器的位置 -->
+        <item name="banner_indicatorGravity">bottom|center_horizontal</item>
+        <!-- 页码切换过程的时间长度 -->
+        <item name="banner_pageChangeDuration">800</item>
+        <!-- 提示文案的文字大小 -->
+        <item name="banner_tipTextSize">10sp</item>
+         <!-- 当只有一页数据时是否显示指示器，默认值为 false -->
+        <!-- 提示文案的文字颜色 -->
+        <item name="banner_tipTextColor">@android:color/white</item>
+        <!-- 加载网络数据时覆盖在BGABanner最上层的占位图 -->
+        <item name="banner_placeholderDrawable">@drawable/image_default</item>
+    </style>
+
+</resources>

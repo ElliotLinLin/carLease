@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\menu\\album_menu_preview.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\menu\\album_menu_preview.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\menu\\album_menu_item_camera.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\menu\\album_menu_item_camera.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\menu\\album_menu_album.xml",
+        "source": "E:\\work\\Carlease\\album\\build\\intermediates\\bundles\\default\\res\\menu\\album_menu_album.xml"
+    }
+]

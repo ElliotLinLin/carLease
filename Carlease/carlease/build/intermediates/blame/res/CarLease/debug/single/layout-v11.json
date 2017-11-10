@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

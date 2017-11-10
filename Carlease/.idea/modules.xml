@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Carlease.iml" filepath="$PROJECT_DIR$/Carlease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/album/album.iml" filepath="$PROJECT_DIR$/album/album.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carlease/carlease.iml" filepath="$PROJECT_DIR$/carlease/carlease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxdialog/xxdialog.iml" filepath="$PROJECT_DIR$/xxdialog/xxdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhiMaSDKLib/zhiMaSDKLib.iml" filepath="$PROJECT_DIR$/zhiMaSDKLib/zhiMaSDKLib.iml" />
+    </modules>
+  </component>
+</project>

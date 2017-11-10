@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="start" />
+
+        <Button
+            android:id="@+id/button_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="close" />
+
+        <Button
+            android:id="@+id/button_isInline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="isInline" />
+
+        <Button
+            android:id="@+id/button_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="send" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button_isConnected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="isConnected" />
+
+        <Button
+            android:id="@+id/button_printSocket"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="printSocket" />
+
+        <Button
+            android:id="@+id/button_stopReadTask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="stopReadTask" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button_closeSocket"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="closeSocket" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button_wakeLock_acquire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="wakeLock.acquire()" />
+
+        <Button
+            android:id="@+id/button_wakeLock_isHeld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="wakeLock.isHeld()" />
+
+        <Button
+            android:id="@+id/button_wakeLock_release"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="wakeLock.release()" />
+    </LinearLayout>
+
+</LinearLayout>

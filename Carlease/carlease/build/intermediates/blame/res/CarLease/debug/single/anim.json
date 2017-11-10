@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_zoom_enter.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_zoom_enter.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_scale_out.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_scale_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_out_right.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_out_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\scale_dialog_out_anim.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\scale_dialog_out_anim.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\mg_liveness_leftout.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\anim\\mg_liveness_leftout.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_show_100_to_0.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_show_100_to_0.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_left_out.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_left_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_in_right.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_in_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\pickerview_slide_out_bottom.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_out_dowm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_out_dowm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_out_left.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_out_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_up_in.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\pickerview_dialog_scale_in.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\mg_slide_out_left.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\anim\\mg_slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_showpop.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_showpop.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\scale_dialog_in_anim.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\scale_dialog_in_anim.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_left_in.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_left_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\mg_slide_in_left.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\anim\\mg_slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\pickerview_slide_in_bottom.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_out_bottom.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_in_dowm.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_in_dowm.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_drop_down_from_top.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_drop_down_from_top.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_in_bottom.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_form_bottom.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_form_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\slide_in.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_fade_in.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_fade_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_out_left.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_out_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_in_up.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_in_up.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_bottom_in_1.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_bottom_in_1.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_in_left.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_in_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\mg_liveness_rightin.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\anim\\mg_liveness_rightin.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_in_top.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_in_top.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_show_0_from_100.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_show_0_from_100.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_right_out.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_right_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_loading.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_hidden_pop.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_hidden_pop.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\rotating.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\mg_slide_in_right.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\anim\\mg_slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_out_up.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_out_up.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_right_in.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_right_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_out_right.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_out_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_slip_in_left.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_slip_in_left.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\mg_slide_out_right.xml",
+        "source": "E:\\work\\Carlease\\zhiMaSDKLib\\build\\intermediates\\bundles\\default\\res\\anim\\mg_slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_drop_down_to_bottom.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_drop_down_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_zoom_exit.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_zoom_exit.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_hide_to_top.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_hide_to_top.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_out_top.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_out_top.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\android-studio\\build-cache\\558300882080151febca42403cea33c54116811f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_scale_in.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_scale_in.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\slide_out.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\tools_push_down_out.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\tools_push_down_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\android-studio\\build-cache\\e5afb0ff1b8ec039bb9f46f568492b47eb9c95ab\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\reverse_anim.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\dialog_in_right.xml",
+        "source": "E:\\work\\Carlease\\xxdialog\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_in_right.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\pickerview_dialog_scale_out.xml",
+        "source": "E:\\work\\Carlease\\pickerview\\build\\intermediates\\bundles\\default\\res\\anim\\pickerview_dialog_scale_out.xml"
+    },
+    {
+        "merged": "E:\\work\\Carlease\\carlease\\build\\intermediates\\res\\merged\\CarLease\\debug\\anim\\popup_grow_fade_in_from_bottom.xml",
+        "source": "E:\\work\\Carlease\\carlease\\src\\main\\res\\anim\\popup_grow_fade_in_from_bottom.xml"
+    }
+]

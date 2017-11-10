@@ -1,0 +1,5 @@
+android-async-http是一款很好的网络请求框架
+AsyncHttpUtil类中组要对请求进行了一个二次封装，里面有很多的get和post方法，根据需求自己调用
+在AsyncCallBackHandler类中是对请求回调的封装，通过抽象类的特性可在实现类中调用我们自己定义的回调，
+继承类还有好几种：JsonHttpResponseHandler，BinaryHttpResponseHandler等，具体重写那个可根据你请求的返回数据
+的格式继承。
